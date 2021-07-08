@@ -6,5 +6,8 @@
 
 
 
-# Github status
+### 📊 Discord Stats:
 <img src = "https://discord.c99.nl/widget/theme-2/828606160486531122.png"></img>
+<!--   Stats -->
+### 📊 GitHub Stats:
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=MohamedHabk&theme=nord&show_icons=true&count_private=true)
